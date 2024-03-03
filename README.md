@@ -15,45 +15,6 @@ The simulation  for this project is link given below
 https://www.tinkercad.com/things/93fMEjvQmxW-arduino-with-lm35-sensor
 
 main code for this project in tinkercad
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Define constants for temperature thresholds
 const int TEMP_THRESHOLD_LOW = 30; // Temperature threshold below which LED blinks faster
 const int TEMP_THRESHOLD_HIGH = 30; // Temperature threshold above which LED blinks slower
